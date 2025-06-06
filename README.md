@@ -1,4 +1,4 @@
-# gaurav_duoguard
+# duoguard
 segregation of duties
 Gaurav DuoGuard
 Overview
